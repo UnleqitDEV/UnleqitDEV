@@ -42,6 +42,5 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Webserver Core](https://github.com/UnleqitDEV/rust_webserver) | Modular HTTP server with a custom stdio plugin protocol — plugins can be written in any language | Rust |
-| [CloudyFlow](https://github.com/UnleqitDEV/cloudy_flow) | SSH & SFTP server manager with console and file management | Flutter / Dart |
 | [Graphy](https://github.com/UnleqitDEV/graphy) | Visual graph algorithm editor & visualizer, inspired by Unreal Engine Blueprints | Flutter / Dart |
 | [lukas-conrad.dev](https://lukas-conrad.dev) | This portfolio — my first Next.js project | Next.js / TypeScript |
